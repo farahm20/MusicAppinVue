@@ -1,4 +1,6 @@
 # music-app
+A music App made using Vue. User can play and pause songs. 
+
 
 ## Project setup
 ```
